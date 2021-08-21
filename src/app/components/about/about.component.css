@@ -2,6 +2,7 @@ section {
     padding-top: 4rem;
     padding-bottom: 5rem;
  background: #e0e4e6;
+ height: 100vh;
 }
 .wrap {
     display: flex;
