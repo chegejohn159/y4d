@@ -9,10 +9,14 @@ section{
 .ic{
 margin: 3px;
 padding: 5px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
 }
 
 .ig{
     height: 30px;
+    width: 30px;
 }
 .vg{
 padding-bottom: 30px;

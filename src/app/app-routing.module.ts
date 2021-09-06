@@ -7,6 +7,7 @@ import { OpportunitiesComponent } from 'src/app/components/opportunities/opportu
 import { ProjectsComponent } from 'src/app/components/projects/projects.component'
 import { TeamComponent } from 'src/app/components/team/team.component'
 import { ContactComponent } from 'src/app/components/contact/contact.component'
+import { ResourcesComponent } from 'src/app/components/resources/resources.component'
 
 const routes: Routes = [
 
@@ -17,6 +18,7 @@ const routes: Routes = [
    { path: 'opportunities', component: OpportunitiesComponent },
    { path: 'team', component: TeamComponent },
    { path: 'contact', component: ContactComponent },
+   { path: 'resources', component: ResourcesComponent },
 
 ];
 
